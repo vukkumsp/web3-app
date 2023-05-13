@@ -14,5 +14,6 @@ Sample Web3 App
     4. Copied tailwind.config.js from the website.
     5. Copied and Replaced src/index.css with index.css content provided in the website.
     6. Copied and Replaced return value of App.jsx from the content provided in the website.
+3. in ./smart_contract run 'npm init -y'
 
 
