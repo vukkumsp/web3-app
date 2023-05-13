@@ -1,4 +1,8 @@
 Sample Web3 App
+---------------
+Based on tutorial: https://www.youtube.com/watch?v=Wn_Kb3MR_cU&list=PL-CIe5EX79TroFG2r36Mev-nT9EAlhUH-&index=9
+
+Styles used: https://gist.github.com/adrianhajdin/5f6cc61fa04de7b8fa250eb295db62fd
 
 1. ReactJS App using Vite ( https://vitejs.dev/guide/ )
     1. npm create vite@latest
