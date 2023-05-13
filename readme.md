@@ -18,6 +18,11 @@ Styles used: https://gist.github.com/adrianhajdin/5f6cc61fa04de7b8fa250eb295db62
     4. Copied tailwind.config.js from the website.
     5. Copied and Replaced src/index.css with index.css content provided in the website.
     6. Copied and Replaced return value of App.jsx from the content provided in the website.
-3. in ./smart_contract run 'npm init -y'
+3. Copy index.css content
+4. Copy images from the link.
+5. install & import react-icons & ethers
+    1. npm install react-icons ethers
+6. 
+7. in ./smart_contract run 'npm init -y'
 
 
