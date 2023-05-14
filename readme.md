@@ -24,5 +24,7 @@ Styles used: https://gist.github.com/adrianhajdin/5f6cc61fa04de7b8fa250eb295db62
     1. npm install react-icons ethers
 6. 
 7. in ./smart_contract run 'npm init -y'
+8. updated the welcome & loader components
+9. Run `npm install --save-dev hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers ethers` in ./smart_contract folder to install required packages.
 
 
