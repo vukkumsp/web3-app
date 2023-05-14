@@ -26,5 +26,6 @@ Styles used: https://gist.github.com/adrianhajdin/5f6cc61fa04de7b8fa250eb295db62
 7. in ./smart_contract run 'npm init -y'
 8. updated the welcome & loader components
 9. Run `npm install --save-dev hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers ethers` in ./smart_contract folder to install required packages.
-
+10. Ropsten is not working so used Sepolia Testnet. 
+    Some good tips like using dotenv to store wallet details: 'https://docs.alchemy.com/docs/how-to-deploy-a-smart-contract-to-the-sepolia-testnet'
 
